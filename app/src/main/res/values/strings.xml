@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RemoteServiceEx2</string>
+    <string name="color">Change Color</string>
+    <string name="mes">Message</string>
+</resources>
